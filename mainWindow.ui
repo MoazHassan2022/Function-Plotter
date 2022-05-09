@@ -286,7 +286,7 @@ QLineEdit:hover#minimumValue
                  <string notr="true">color: rgb(207, 207, 103);</string>
                 </property>
                 <property name="text">
-                 <string>This application is developed to plot any 1-Dimension mathematical function you want!</string>
+                 <string>This application is developed to plot any 1-Dimension mathematical function you want! e.g. x*sin(x) + exp(x)</string>
                 </property>
                 <property name="wordWrap">
                  <bool>true</bool>
