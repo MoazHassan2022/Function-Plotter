@@ -69,7 +69,7 @@ Function-Plotter
   It is a Function Plotter app with Nice and Responsive GUI that takes 3 inputs: 
   <ol>
   <li>
-  <h4>Any Mathematical Function.</h4>
+  <h4>Any 1-Variable Mathematical Function.</h4>
  </li>
  <li>
   <h4>Minimum value of the variable.</h4>
