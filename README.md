@@ -120,4 +120,8 @@ Function-Plotter
  </li>
 </ol>
 
+<h3>Documentation Video</h3>
+<blockquote>
+  <a href="https://www.youtube.com/watch?v=Nvms-oqXReE">Go to video</a>
+</blockquote>
 
