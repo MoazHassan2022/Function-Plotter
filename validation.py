@@ -21,16 +21,16 @@ class Validation:
     def validate(self):
         # Some input validations
         if self.inputString == "" or self.inputString == " ":
-            printCritical("Invalid function.")
+            printCritical("Empty input for function!")
             return 0
         try:
             self.minimum = float(self.minimum)
             self.maximum = float(self.maximum)
             if self.minimum > self.maximum:
-                printCritical("Lower value is bigger than upper.")
+                printCritical("Minimum value is bigger than Maximum value.")
                 return 0
         except ValueError:
-            printCritical("Please enter numbers in lower and upper.")
+            printCritical("Please enter numbers in Minimum and Maximum values.")
             return 0
         # Validate the string from any harmful command
         # See if there is any dangerous word that maybe will harm us
