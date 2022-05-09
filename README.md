@@ -69,13 +69,13 @@ Function-Plotter
   It is a Function Plotter app with Nice and Responsive GUI that takes 3 inputs: 
   <ol>
   <li>
-  <h4>1- Any Mathematical Function.</h4>
+  <h4>Any Mathematical Function.</h4>
  </li>
  <li>
-  <h4>2- Minimum value of the variable.</h4>
+  <h4>Minimum value of the variable.</h4>
  </li>
  <li>
-  <h4>3- Maximum value of the variable.</h4>
+  <h4>Maximum value of the variable.</h4>
  </li>
  </ol>
  Then it plots this function if it is valid.
