@@ -47,6 +47,19 @@
  
 </ol>
 
+<h3 href="#EditDesign">Editing Design</h3>
+<ol>
+  <li><strong><em>Install QT tools</em></strong>
+       <blockquote>$pip install pyqt5-tools</blockquote>
+  </li>
+    <li><strong><em>Start the designer</em></strong>
+    <blockquote>$designer</blockquote>
+  </li>
+ 
+</ol>
+
+
+
 <h2 href="#Structure">Project Structure</h2>
  <div> 
   <pre>
